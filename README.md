@@ -8,7 +8,7 @@
 </ol>
 
 ### รายชื่อสมาชิก
-<li>Thanapat Pongpipat6310682734</li>
+<li>Thanapat Pongpipat 6310682734</li>
 <li>Pongsakorn Parsoppornpiboon 6310682718</li>
   
 ### Clip Demo
