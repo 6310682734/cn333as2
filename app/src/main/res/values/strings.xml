@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quiz Game</string>
+    <string name="instructions">Choose the correct answer.</string>
+    <string name="skip">Skip</string>
+    <string name="submit">Submit</string>
+    <string name="score">Your score: %d</string>
+    <string name="quiz_count">Question: %d of 10 </string>
+    <string name="result">RESULT</string>
+    <string name="you_scored">"%d / 10"</string>
+    <string name="exit">Exit</string>
+</resources>
